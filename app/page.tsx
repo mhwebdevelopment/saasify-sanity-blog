@@ -428,7 +428,7 @@ function LegacyLandingPage() {
                 <Link href="https://github.com/doxygen/doxygenhttps://doxygen" className="text-muted-foreground hover:text-foreground transition-colors">Docs</Link>
               </button>
               <button className="py-2 text-sm font-medium text-left">
-                <Link href="https://localhost:3000/blog" className="text-muted-foreground hover:text-foreground transition-colors">Blog</Link>
+                <Link href="https://saasify-sanity-blog.vercel.app/blog" className="text-muted-foreground hover:text-foreground transition-colors">Blog</Link>
               </button>
               <div className="flex flex-col gap-2 pt-2 border-t">
                 <Link href="#" className="py-2 text-sm font-medium" onClick={() => setMobileMenuOpen(false)}>
