@@ -365,7 +365,7 @@ function LegacyLandingPage() {
             <button
               className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
             >
-              <Link href="https://localhost:3000/blog" className="text-muted-foreground hover:text-foreground transition-colors">
+              <Link href="https://saasify-sanity-blog.vercel.app/blog" className="text-muted-foreground hover:text-foreground transition-colors">
               Blog
               </Link>
             </button>
